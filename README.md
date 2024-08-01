@@ -9,10 +9,9 @@ There are two parts to this project: the application and the physical circuit it
 
 The application is where a caretaker can set the time to remind the senior at. They are able to set the time on the app, and when that time is reached, then the app will send an API Request with a value of '1'. This signifies that the user needs to take their medicine. 
 
-<img width="300px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/app%20images/app_page1.PNG?raw=true">
-<img width="300px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/app%20images/app_page2.PNG?raw=true">
-
-
+<img align="left" width="300px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/app%20images/app_page1.PNG?raw=true">
+<img align="left" width="300px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/app%20images/app_page2.PNG?raw=true">
+<br />
 
 ## Installation 
 
