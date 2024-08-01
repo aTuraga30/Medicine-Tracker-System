@@ -21,9 +21,11 @@ To get started, an installation of flutter is required. Check it out at: https:/
 Next, navigate to the project's home directory which is: /finalstemapp
 
 Then run the following:
+
 `flutter run`
 
 You might need to install the necessary dependencies which can be done with: 
+
 `flutter pub get`
 
 # The Circuit 
