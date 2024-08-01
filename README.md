@@ -12,6 +12,8 @@ The application is where a caretaker can set the time to remind the senior at. T
 <img align="left" width="300px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/app%20images/app_page1.PNG?raw=true">
 <img align="left" width="300px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/app%20images/app_page2.PNG?raw=true">
 
+
+
 ## Installation 
 
 To get started, an installation of flutter is required. Check it out at: https://docs.flutter.dev/get-started/install
