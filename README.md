@@ -31,7 +31,7 @@ You might need to install the necessary dependencies which can be done with:
 The circuit is the representation of the band in the project. It is comprised of an ESP32 microcontroller which controls an LED. When the application send an API request of '1', the circuit will read it, and consequently turn the LED on. When the user is done taking their medicine, they simply push the button, which sends an API request of '0'. The ESP32 will read this signal and consequently turn the LED off. 
 
 <img align="left" width="220px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/circuit%20images/Circuit%20Schematic.jpg?raw=true">
-<img align="left" width="220px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/circuit%20images/Prototype%20Picture.jpg?raw=true">
+<img width="220px" src="https://github.com/aTuraga30/Medicine-Tracker-System/blob/main/circuit%20images/Prototype%20Picture.jpg?raw=true">
 
 The API used in this project was provided through 'ThingSpeak'. Link to their website: https://thingspeak.com/.
 
