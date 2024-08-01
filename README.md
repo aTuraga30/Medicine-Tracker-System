@@ -9,7 +9,14 @@ There are two parts to this project: the application and the physical circuit it
 
 The application is where a caretaker can set the time to remind the senior at. They are able to set the time on the app, and when that time is reached, then the app will send an API Request with a value of '1'. This signifies that the user needs to take their medicine. 
 
-The files on GitHub only contain the 'android', 'ios', and 'lib' folders of the app, which are the most important. The 'main.dart' file in the 'lib' folder contains the raw code for the app, which can be viewed. Please note that there may be other dependencies which you may need to install if downloaded. 
+## Installation 
+
+To get started, an installation of flutter is required. Check it out at: https://docs.flutter.dev/get-started/install
+
+Next, navigate to the project's home directory which is: /finalstemapp
+
+Then run the following:
+`flutter run`
 
 # The Circuit 
 
